@@ -1,0 +1,18 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_ERROR = "LOGIN_ERROR";
+export const LOGOUT = "LOGOUT";
+
+export const GET_ALL_TASKS = "GET_ALL_TASKS";
+export const GET_TASK = "GET_TASK";
+export const CREATE_TASK = "CREATE_TASK";
+export const UPDATE_TASK_STATUS = "UPDATE_TASK_STATUS";
+
+export const GET_ALL_COLLECTIONS = "GET_ALL_COLLECTIONS";
+export const GET_COLLECTION = "GET_COLLECTION";
+export const CREATE_COLLECTION = "CREATE_COLLECTION";
+
+export const GET_TASKS_BY_COLLECTION = "GET_TASKS_BY_COLLECTION";
+
+export const GET_ALL_USERS = "GET_ALL_USERS";
+export const GET_USER = "GET_USER";
+export const CREATE_USER = "CREATE_USER";

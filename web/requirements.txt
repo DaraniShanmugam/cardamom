@@ -1,0 +1,11 @@
+Django
+django-webpush
+djangorestframework
+djangorestframework-jwt
+PyJWT
+python-decouple
+pywebpush
+gunicorn
+django-cors-middleware
+pyyaml
+drf-yasg
