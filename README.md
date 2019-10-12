@@ -1,6 +1,6 @@
 # Cardamom Ticketing System
 
-Live hosted demo: https://cardamom-ticketing.herokuapp.com
+Live hosted demo: https://cardamom-ticket-tracking.herokuapp.com/
 Admin and Manager credentials:
 Username: crayonadmin
 Password: testP@$$
